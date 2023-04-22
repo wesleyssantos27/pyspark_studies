@@ -9,7 +9,7 @@ O ambiente indicado pelo instrutor foi uma máquina virtual Linux Ubuntu. Para c
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png?20150209215936"  width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Ubuntu_logo_orange.png"  width="100" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg/2048px-PuTTY_Icon.svg.png"  width="60" height="60">
 
 ## Conteúdo
-O curso abordou os seguintes tópicos:
+O curso aborda os seguintes tópicos:
 
 - Aprender a instalar e configurar o Spark
 - Conhecer o principal objeto de dados: DataFrames do Spark
@@ -31,4 +31,4 @@ O curso abordou os seguintes tópicos:
 
 Abaixo listei a resolução de todas as atividades feitas por mim e aprimoradas à partir das resoluções do professor:
 
-- Atividade 1: 
+- [Atividade 1](https://github.com/wesleyssantos27/pyspark_studies/blob/main/Atividades/Atividade1.md)
