@@ -32,3 +32,4 @@ O curso aborda os seguintes tópicos:
 Abaixo listei a resolução de todas as atividades feitas por mim e aprimoradas à partir das resoluções do professor:
 
 - [Atividade 1](https://github.com/wesleyssantos27/pyspark_studies/blob/main/Atividades/Atividade1.md)
+- [Atividade 2](https://github.com/wesleyssantos27/pyspark_studies/blob/main/Atividades/Atividade2.md)
