@@ -1,20 +1,23 @@
-# Resolução da segunda atividade
-
-Essa atividade também foi concluída utilizando o command line do pyspark na máquina virtual. Sendo assim a resolução foi registrada em formato de imagem.
+# Resolução da terceira atividade
 
 
 ### Texto da atividade
-"1 -Crie um banco de dados no DW do Spark chamado VendasVarejo, e persista todas as tabelas neste banco de dados.
+"1 -Crie um banco de dados no PostgresSQL: Tabelas.
 
-2 - Crie uma consulta que mostre cada item vendido: Nome do Cliente, Data da Venda, Produto, Vendedor e Valor Total do item."
+2 - Crie uma aplicação que, quando executada, recebe como parâmetro o caminho completo de um arquivo parquet que vai estar em um diretório qualquer, e grava no banco de dados Tabelas do PostgreSQL, com o nome de tabela que você também deve passar como parâmetro."
 
-### Arquivos em formato parquet
-![0](https://github.com/wesleyssantos27/pyspark_studies/blob/main/img/Atv2_img0.png)
+### Script desenvolvido
+![0](https://github.com/wesleyssantos27/pyspark_studies/blob/main/img/Atv3_img1.png)
 
-### 1:
-![1](https://github.com/wesleyssantos27/pyspark_studies/blob/main/img/Atv2_img1.png)
-![2](https://github.com/wesleyssantos27/pyspark_studies/blob/main/img/Atv2_img2.png)
+### 1 - Criação do database e select da tabela Vendas para evidenciar sua inexistência:
+![1](https://github.com/wesleyssantos27/pyspark_studies/blob/main/img/Atv3_img2.png)
 
-### 2:
-![3](https://github.com/wesleyssantos27/pyspark_studies/blob/main/img/Atv2_img3.png)
+### 2 - Comando de execução da aplicação:
+![2](https://github.com/wesleyssantos27/pyspark_studies/blob/main/img/Atv3_img3.png)
+
+### Conclusão do script sem erros:
+![3](https://github.com/wesleyssantos27/pyspark_studies/blob/main/img/Atv3_img4.png)
+
+### Tabela criada no banco:
+![3](https://github.com/wesleyssantos27/pyspark_studies/blob/main/img/Atv3_img5.png)
 
