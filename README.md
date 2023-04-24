@@ -2,11 +2,19 @@
 Estarei utilizando este repositório para registrar o meu avanço no curso do Fernando Amaral disponível no link abaixo.
 Bem como guardar a resolução das atividades realizadas durante o curso.
 
+https://www.udemy.com/course/spark-curso-completo/
+
 ## Ambiente
 
 O ambiente indicado pelo instrutor foi uma máquina virtual Linux Ubuntu. Para criá-la e acessá-la diretamente utilizei o Virtual Box e o Putty para acelerar o acesso via SSH.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png?20150209215936"  width="60" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Ubuntu_logo_orange.png"  width="100" height="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PuTTY_Icon.svg/2048px-PuTTY_Icon.svg.png"  width="60" height="60">
+<img src="https://github.com/wesleyssantos27/pyspark_studies/blob/main/img/icons/vm.png"  width="60" height="60"> <img src="https://github.com/wesleyssantos27/pyspark_studies/blob/main/img/icons/ubuntu.png"  width="100" height="60"> <img src="https://github.com/wesleyssantos27/pyspark_studies/blob/main/img/icons/putty.png"  width="60" height="60">
+
+Durante o desenvolvimento do curso também foram utilizados os bancos Postgres e Mongodb, além de Notebooks Jupyter com Python.
+
+<img src="https://github.com/wesleyssantos27/pyspark_studies/blob/main/img/icons/mongodb.png"  width="60" height="60"> <img src="https://github.com/wesleyssantos27/pyspark_studies/blob/main/img/icons/postgres.png"  width="60" height="60"> <img src="https://github.com/wesleyssantos27/pyspark_studies/blob/main/img/icons/jupyter.png"  width="60" height="60"> <img src="https://github.com/wesleyssantos27/pyspark_studies/blob/main/img/icons/python.webp"  width="60" height="60">
+
+
 
 ## Conteúdo
 O curso aborda os seguintes tópicos:
@@ -33,3 +41,4 @@ Abaixo listei a resolução de todas as atividades feitas por mim e aprimoradas 
 
 - [Atividade 1](https://github.com/wesleyssantos27/pyspark_studies/blob/main/Atividades/Atividade1.md)
 - [Atividade 2](https://github.com/wesleyssantos27/pyspark_studies/blob/main/Atividades/Atividade2.md)
+- [Atividade 3](https://github.com/wesleyssantos27/pyspark_studies/blob/main/Atividades/Atividade3.md)
